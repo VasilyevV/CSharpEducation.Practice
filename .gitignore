@@ -39,5 +39,5 @@ Thumbs.db
 # SLN files
 *.sln
 *.csproj
-/bin/Debug/net6.0/
+/bin/
 /obj/
