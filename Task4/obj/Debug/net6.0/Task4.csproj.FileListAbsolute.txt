@@ -1,0 +1,15 @@
+C:\C#\repos\CSharpEducation.Practice\Task4\bin\Debug\net6.0\Task4.exe
+C:\C#\repos\CSharpEducation.Practice\Task4\bin\Debug\net6.0\Task4.deps.json
+C:\C#\repos\CSharpEducation.Practice\Task4\bin\Debug\net6.0\Task4.runtimeconfig.json
+C:\C#\repos\CSharpEducation.Practice\Task4\bin\Debug\net6.0\Task4.dll
+C:\C#\repos\CSharpEducation.Practice\Task4\bin\Debug\net6.0\Task4.pdb
+C:\C#\repos\CSharpEducation.Practice\Task4\obj\Debug\net6.0\Task4.csproj.AssemblyReference.cache
+C:\C#\repos\CSharpEducation.Practice\Task4\obj\Debug\net6.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\repos\CSharpEducation.Practice\Task4\obj\Debug\net6.0\Task4.AssemblyInfoInputs.cache
+C:\C#\repos\CSharpEducation.Practice\Task4\obj\Debug\net6.0\Task4.AssemblyInfo.cs
+C:\C#\repos\CSharpEducation.Practice\Task4\obj\Debug\net6.0\Task4.csproj.CoreCompileInputs.cache
+C:\C#\repos\CSharpEducation.Practice\Task4\obj\Debug\net6.0\Task4.dll
+C:\C#\repos\CSharpEducation.Practice\Task4\obj\Debug\net6.0\refint\Task4.dll
+C:\C#\repos\CSharpEducation.Practice\Task4\obj\Debug\net6.0\Task4.pdb
+C:\C#\repos\CSharpEducation.Practice\Task4\obj\Debug\net6.0\Task4.genruntimeconfig.cache
+C:\C#\repos\CSharpEducation.Practice\Task4\obj\Debug\net6.0\ref\Task4.dll

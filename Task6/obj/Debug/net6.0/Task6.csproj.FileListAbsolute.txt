@@ -1,0 +1,15 @@
+C:\C#\repos\CSharpEducation.Practice\Task6\obj\Debug\net6.0\Task6.csproj.AssemblyReference.cache
+C:\C#\repos\CSharpEducation.Practice\Task6\obj\Debug\net6.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\repos\CSharpEducation.Practice\Task6\obj\Debug\net6.0\Task6.AssemblyInfoInputs.cache
+C:\C#\repos\CSharpEducation.Practice\Task6\obj\Debug\net6.0\Task6.AssemblyInfo.cs
+C:\C#\repos\CSharpEducation.Practice\Task6\obj\Debug\net6.0\Task6.csproj.CoreCompileInputs.cache
+C:\C#\repos\CSharpEducation.Practice\Task6\bin\Debug\net6.0\Task6.exe
+C:\C#\repos\CSharpEducation.Practice\Task6\bin\Debug\net6.0\Task6.deps.json
+C:\C#\repos\CSharpEducation.Practice\Task6\bin\Debug\net6.0\Task6.runtimeconfig.json
+C:\C#\repos\CSharpEducation.Practice\Task6\bin\Debug\net6.0\Task6.dll
+C:\C#\repos\CSharpEducation.Practice\Task6\bin\Debug\net6.0\Task6.pdb
+C:\C#\repos\CSharpEducation.Practice\Task6\obj\Debug\net6.0\Task6.dll
+C:\C#\repos\CSharpEducation.Practice\Task6\obj\Debug\net6.0\refint\Task6.dll
+C:\C#\repos\CSharpEducation.Practice\Task6\obj\Debug\net6.0\Task6.pdb
+C:\C#\repos\CSharpEducation.Practice\Task6\obj\Debug\net6.0\Task6.genruntimeconfig.cache
+C:\C#\repos\CSharpEducation.Practice\Task6\obj\Debug\net6.0\ref\Task6.dll

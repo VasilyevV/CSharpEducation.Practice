@@ -1,0 +1,15 @@
+C:\C#\repos\CSharpEducation.Practice\Task.CSharpBase\bin\Release\net6.0\Task.CSharpBase.exe
+C:\C#\repos\CSharpEducation.Practice\Task.CSharpBase\bin\Release\net6.0\Task.CSharpBase.deps.json
+C:\C#\repos\CSharpEducation.Practice\Task.CSharpBase\bin\Release\net6.0\Task.CSharpBase.runtimeconfig.json
+C:\C#\repos\CSharpEducation.Practice\Task.CSharpBase\bin\Release\net6.0\Task.CSharpBase.dll
+C:\C#\repos\CSharpEducation.Practice\Task.CSharpBase\bin\Release\net6.0\Task.CSharpBase.pdb
+C:\C#\repos\CSharpEducation.Practice\Task.CSharpBase\obj\Release\net6.0\Task.CSharpBase.csproj.AssemblyReference.cache
+C:\C#\repos\CSharpEducation.Practice\Task.CSharpBase\obj\Release\net6.0\Task.CSharpBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\repos\CSharpEducation.Practice\Task.CSharpBase\obj\Release\net6.0\Task.CSharpBase.AssemblyInfoInputs.cache
+C:\C#\repos\CSharpEducation.Practice\Task.CSharpBase\obj\Release\net6.0\Task.CSharpBase.AssemblyInfo.cs
+C:\C#\repos\CSharpEducation.Practice\Task.CSharpBase\obj\Release\net6.0\Task.CSharpBase.csproj.CoreCompileInputs.cache
+C:\C#\repos\CSharpEducation.Practice\Task.CSharpBase\obj\Release\net6.0\Task.CSharpBase.dll
+C:\C#\repos\CSharpEducation.Practice\Task.CSharpBase\obj\Release\net6.0\refint\Task.CSharpBase.dll
+C:\C#\repos\CSharpEducation.Practice\Task.CSharpBase\obj\Release\net6.0\Task.CSharpBase.pdb
+C:\C#\repos\CSharpEducation.Practice\Task.CSharpBase\obj\Release\net6.0\Task.CSharpBase.genruntimeconfig.cache
+C:\C#\repos\CSharpEducation.Practice\Task.CSharpBase\obj\Release\net6.0\ref\Task.CSharpBase.dll
