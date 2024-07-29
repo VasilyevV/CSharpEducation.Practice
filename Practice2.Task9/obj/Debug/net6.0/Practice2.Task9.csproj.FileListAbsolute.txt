@@ -1,0 +1,15 @@
+C:\GitHub\CSharpEducation.Practice\Practice2.Task9\obj\Debug\net6.0\Practice2.Task9.csproj.AssemblyReference.cache
+C:\GitHub\CSharpEducation.Practice\Practice2.Task9\obj\Debug\net6.0\Practice2.Task9.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CSharpEducation.Practice\Practice2.Task9\obj\Debug\net6.0\Practice2.Task9.AssemblyInfoInputs.cache
+C:\GitHub\CSharpEducation.Practice\Practice2.Task9\obj\Debug\net6.0\Practice2.Task9.AssemblyInfo.cs
+C:\GitHub\CSharpEducation.Practice\Practice2.Task9\obj\Debug\net6.0\Practice2.Task9.csproj.CoreCompileInputs.cache
+C:\GitHub\CSharpEducation.Practice\Practice2.Task9\bin\Debug\net6.0\Practice2.Task9.exe
+C:\GitHub\CSharpEducation.Practice\Practice2.Task9\bin\Debug\net6.0\Practice2.Task9.deps.json
+C:\GitHub\CSharpEducation.Practice\Practice2.Task9\bin\Debug\net6.0\Practice2.Task9.runtimeconfig.json
+C:\GitHub\CSharpEducation.Practice\Practice2.Task9\bin\Debug\net6.0\Practice2.Task9.dll
+C:\GitHub\CSharpEducation.Practice\Practice2.Task9\bin\Debug\net6.0\Practice2.Task9.pdb
+C:\GitHub\CSharpEducation.Practice\Practice2.Task9\obj\Debug\net6.0\Practice2.Task9.dll
+C:\GitHub\CSharpEducation.Practice\Practice2.Task9\obj\Debug\net6.0\refint\Practice2.Task9.dll
+C:\GitHub\CSharpEducation.Practice\Practice2.Task9\obj\Debug\net6.0\Practice2.Task9.pdb
+C:\GitHub\CSharpEducation.Practice\Practice2.Task9\obj\Debug\net6.0\Practice2.Task9.genruntimeconfig.cache
+C:\GitHub\CSharpEducation.Practice\Practice2.Task9\obj\Debug\net6.0\ref\Practice2.Task9.dll
