@@ -1,0 +1,14 @@
+C:\1\Practice2.Task1\bin\Debug\net6.0\Practice2.Task1.exe
+C:\1\Practice2.Task1\bin\Debug\net6.0\Practice2.Task1.deps.json
+C:\1\Practice2.Task1\bin\Debug\net6.0\Practice2.Task1.runtimeconfig.json
+C:\1\Practice2.Task1\bin\Debug\net6.0\Practice2.Task1.dll
+C:\1\Practice2.Task1\bin\Debug\net6.0\Practice2.Task1.pdb
+C:\1\Practice2.Task1\obj\Debug\net6.0\Practice2.Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\1\Practice2.Task1\obj\Debug\net6.0\Practice2.Task1.AssemblyInfoInputs.cache
+C:\1\Practice2.Task1\obj\Debug\net6.0\Practice2.Task1.AssemblyInfo.cs
+C:\1\Practice2.Task1\obj\Debug\net6.0\Practice2.Task1.csproj.CoreCompileInputs.cache
+C:\1\Practice2.Task1\obj\Debug\net6.0\Practice2.Task1.dll
+C:\1\Practice2.Task1\obj\Debug\net6.0\refint\Practice2.Task1.dll
+C:\1\Practice2.Task1\obj\Debug\net6.0\Practice2.Task1.pdb
+C:\1\Practice2.Task1\obj\Debug\net6.0\Practice2.Task1.genruntimeconfig.cache
+C:\1\Practice2.Task1\obj\Debug\net6.0\ref\Practice2.Task1.dll

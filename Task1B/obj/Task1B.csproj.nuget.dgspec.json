@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\repos\\CSharpEducation.Practice\\Task1B\\Task1B.csproj": {}
+    "C:\\GitHub\\CSharpEducation.Practice\\Task1B\\Task1B.csproj": {}
   },
   "projects": {
-    "C:\\C#\\repos\\CSharpEducation.Practice\\Task1B\\Task1B.csproj": {
+    "C:\\GitHub\\CSharpEducation.Practice\\Task1B\\Task1B.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\repos\\CSharpEducation.Practice\\Task1B\\Task1B.csproj",
+        "projectUniqueName": "C:\\GitHub\\CSharpEducation.Practice\\Task1B\\Task1B.csproj",
         "projectName": "Task1B",
-        "projectPath": "C:\\C#\\repos\\CSharpEducation.Practice\\Task1B\\Task1B.csproj",
+        "projectPath": "C:\\GitHub\\CSharpEducation.Practice\\Task1B\\Task1B.csproj",
         "packagesPath": "C:\\Users\\BlackRaven\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\repos\\CSharpEducation.Practice\\Task1B\\obj\\",
+        "outputPath": "C:\\GitHub\\CSharpEducation.Practice\\Task1B\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
