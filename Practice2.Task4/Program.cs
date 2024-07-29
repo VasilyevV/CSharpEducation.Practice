@@ -31,15 +31,36 @@ class Task4
             Console.WriteLine();
         }
         
-        Console.ReadLine();
 
         for (int i = 1; i <= h; i++)
         {
-            for (int j = h - i; j <= 0;)
+            for (int j = 0; j < h - i; j++)
                 Console.Write(" ");
-            Console.WriteLine("!");
+            for (int j = 1; j <= i; j++)
+                Console.Write("*");
+            Console.WriteLine();
         }
         
-        Console.ReadLine();
+        Console.WriteLine("Введите символ: ");
+        char s = char.Parse(Console.ReadLine());
+
+        for (int i = 1; i <= h; i++)
+        {
+            for (int j = 1; j <= i; j++)
+                Console.Write(s);
+            Console.WriteLine();
+        }
+
+
+        for (int i = 1; i <= h; i++)
+        {
+            for (int j = 0; j < h - i; j++)
+                Console.Write(" ");
+            for (int j = 1; j <= i; j++)
+                Console.Write(s);
+            Console.WriteLine();
+        }
+
+            Console.ReadLine();
     }
 }
