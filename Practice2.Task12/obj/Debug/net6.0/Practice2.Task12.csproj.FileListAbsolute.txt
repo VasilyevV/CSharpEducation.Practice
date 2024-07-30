@@ -1,0 +1,15 @@
+C:\GitHub\CSharpEducation.Practice\Practice2.Task12\bin\Debug\net6.0\Practice2.Task12.exe
+C:\GitHub\CSharpEducation.Practice\Practice2.Task12\bin\Debug\net6.0\Practice2.Task12.deps.json
+C:\GitHub\CSharpEducation.Practice\Practice2.Task12\bin\Debug\net6.0\Practice2.Task12.runtimeconfig.json
+C:\GitHub\CSharpEducation.Practice\Practice2.Task12\bin\Debug\net6.0\Practice2.Task12.dll
+C:\GitHub\CSharpEducation.Practice\Practice2.Task12\bin\Debug\net6.0\Practice2.Task12.pdb
+C:\GitHub\CSharpEducation.Practice\Practice2.Task12\obj\Debug\net6.0\Practice2.Task12.csproj.AssemblyReference.cache
+C:\GitHub\CSharpEducation.Practice\Practice2.Task12\obj\Debug\net6.0\Practice2.Task12.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CSharpEducation.Practice\Practice2.Task12\obj\Debug\net6.0\Practice2.Task12.AssemblyInfoInputs.cache
+C:\GitHub\CSharpEducation.Practice\Practice2.Task12\obj\Debug\net6.0\Practice2.Task12.AssemblyInfo.cs
+C:\GitHub\CSharpEducation.Practice\Practice2.Task12\obj\Debug\net6.0\Practice2.Task12.csproj.CoreCompileInputs.cache
+C:\GitHub\CSharpEducation.Practice\Practice2.Task12\obj\Debug\net6.0\Practice2.Task12.dll
+C:\GitHub\CSharpEducation.Practice\Practice2.Task12\obj\Debug\net6.0\refint\Practice2.Task12.dll
+C:\GitHub\CSharpEducation.Practice\Practice2.Task12\obj\Debug\net6.0\Practice2.Task12.pdb
+C:\GitHub\CSharpEducation.Practice\Practice2.Task12\obj\Debug\net6.0\Practice2.Task12.genruntimeconfig.cache
+C:\GitHub\CSharpEducation.Practice\Practice2.Task12\obj\Debug\net6.0\ref\Practice2.Task12.dll
