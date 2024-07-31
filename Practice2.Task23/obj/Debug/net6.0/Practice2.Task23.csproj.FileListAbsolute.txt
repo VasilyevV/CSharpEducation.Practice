@@ -1,0 +1,15 @@
+C:\GitHub\CSharpEducation.Practice\Practice2.Task23\bin\Debug\net6.0\Practice2.Task23.exe
+C:\GitHub\CSharpEducation.Practice\Practice2.Task23\bin\Debug\net6.0\Practice2.Task23.deps.json
+C:\GitHub\CSharpEducation.Practice\Practice2.Task23\bin\Debug\net6.0\Practice2.Task23.runtimeconfig.json
+C:\GitHub\CSharpEducation.Practice\Practice2.Task23\bin\Debug\net6.0\Practice2.Task23.dll
+C:\GitHub\CSharpEducation.Practice\Practice2.Task23\bin\Debug\net6.0\Practice2.Task23.pdb
+C:\GitHub\CSharpEducation.Practice\Practice2.Task23\obj\Debug\net6.0\Practice2.Task23.csproj.AssemblyReference.cache
+C:\GitHub\CSharpEducation.Practice\Practice2.Task23\obj\Debug\net6.0\Practice2.Task23.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CSharpEducation.Practice\Practice2.Task23\obj\Debug\net6.0\Practice2.Task23.AssemblyInfoInputs.cache
+C:\GitHub\CSharpEducation.Practice\Practice2.Task23\obj\Debug\net6.0\Practice2.Task23.AssemblyInfo.cs
+C:\GitHub\CSharpEducation.Practice\Practice2.Task23\obj\Debug\net6.0\Practice2.Task23.csproj.CoreCompileInputs.cache
+C:\GitHub\CSharpEducation.Practice\Practice2.Task23\obj\Debug\net6.0\Practice2.Task23.dll
+C:\GitHub\CSharpEducation.Practice\Practice2.Task23\obj\Debug\net6.0\refint\Practice2.Task23.dll
+C:\GitHub\CSharpEducation.Practice\Practice2.Task23\obj\Debug\net6.0\Practice2.Task23.pdb
+C:\GitHub\CSharpEducation.Practice\Practice2.Task23\obj\Debug\net6.0\Practice2.Task23.genruntimeconfig.cache
+C:\GitHub\CSharpEducation.Practice\Practice2.Task23\obj\Debug\net6.0\ref\Practice2.Task23.dll
