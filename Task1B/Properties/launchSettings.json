@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Task1B": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\new"
+    }
+  }
+}

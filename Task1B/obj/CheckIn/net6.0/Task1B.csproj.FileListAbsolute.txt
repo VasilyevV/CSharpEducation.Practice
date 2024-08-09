@@ -1,0 +1,15 @@
+C:\GitHub\CSharpEducation.Practice\Task1B\bin\CheckIn\net6.0\Task1B.exe
+C:\GitHub\CSharpEducation.Practice\Task1B\bin\CheckIn\net6.0\Task1B.deps.json
+C:\GitHub\CSharpEducation.Practice\Task1B\bin\CheckIn\net6.0\Task1B.runtimeconfig.json
+C:\GitHub\CSharpEducation.Practice\Task1B\bin\CheckIn\net6.0\Task1B.dll
+C:\GitHub\CSharpEducation.Practice\Task1B\bin\CheckIn\net6.0\Task1B.pdb
+C:\GitHub\CSharpEducation.Practice\Task1B\obj\CheckIn\net6.0\Task1B.csproj.AssemblyReference.cache
+C:\GitHub\CSharpEducation.Practice\Task1B\obj\CheckIn\net6.0\Task1B.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CSharpEducation.Practice\Task1B\obj\CheckIn\net6.0\Task1B.AssemblyInfoInputs.cache
+C:\GitHub\CSharpEducation.Practice\Task1B\obj\CheckIn\net6.0\Task1B.AssemblyInfo.cs
+C:\GitHub\CSharpEducation.Practice\Task1B\obj\CheckIn\net6.0\Task1B.csproj.CoreCompileInputs.cache
+C:\GitHub\CSharpEducation.Practice\Task1B\obj\CheckIn\net6.0\Task1B.dll
+C:\GitHub\CSharpEducation.Practice\Task1B\obj\CheckIn\net6.0\refint\Task1B.dll
+C:\GitHub\CSharpEducation.Practice\Task1B\obj\CheckIn\net6.0\Task1B.pdb
+C:\GitHub\CSharpEducation.Practice\Task1B\obj\CheckIn\net6.0\Task1B.genruntimeconfig.cache
+C:\GitHub\CSharpEducation.Practice\Task1B\obj\CheckIn\net6.0\ref\Task1B.dll

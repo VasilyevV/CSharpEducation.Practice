@@ -1,0 +1,14 @@
+C:\Users\студент308\Downloads\CSharpEducation.Practice-main\CSharpEducation.Practice-main\Practice3.Task2\obj\Debug\net6.0\Practice3.Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\студент308\Downloads\CSharpEducation.Practice-main\CSharpEducation.Practice-main\Practice3.Task2\obj\Debug\net6.0\Practice3.Task2.AssemblyInfoInputs.cache
+C:\Users\студент308\Downloads\CSharpEducation.Practice-main\CSharpEducation.Practice-main\Practice3.Task2\obj\Debug\net6.0\Practice3.Task2.AssemblyInfo.cs
+C:\Users\студент308\Downloads\CSharpEducation.Practice-main\CSharpEducation.Practice-main\Practice3.Task2\obj\Debug\net6.0\Practice3.Task2.csproj.CoreCompileInputs.cache
+C:\Users\студент308\Downloads\CSharpEducation.Practice-main\CSharpEducation.Practice-main\Practice3.Task2\bin\Debug\net6.0\Practice3.Task2.exe
+C:\Users\студент308\Downloads\CSharpEducation.Practice-main\CSharpEducation.Practice-main\Practice3.Task2\bin\Debug\net6.0\Practice3.Task2.deps.json
+C:\Users\студент308\Downloads\CSharpEducation.Practice-main\CSharpEducation.Practice-main\Practice3.Task2\bin\Debug\net6.0\Practice3.Task2.runtimeconfig.json
+C:\Users\студент308\Downloads\CSharpEducation.Practice-main\CSharpEducation.Practice-main\Practice3.Task2\bin\Debug\net6.0\Practice3.Task2.dll
+C:\Users\студент308\Downloads\CSharpEducation.Practice-main\CSharpEducation.Practice-main\Practice3.Task2\bin\Debug\net6.0\Practice3.Task2.pdb
+C:\Users\студент308\Downloads\CSharpEducation.Practice-main\CSharpEducation.Practice-main\Practice3.Task2\obj\Debug\net6.0\Practice3.Task2.dll
+C:\Users\студент308\Downloads\CSharpEducation.Practice-main\CSharpEducation.Practice-main\Practice3.Task2\obj\Debug\net6.0\refint\Practice3.Task2.dll
+C:\Users\студент308\Downloads\CSharpEducation.Practice-main\CSharpEducation.Practice-main\Practice3.Task2\obj\Debug\net6.0\Practice3.Task2.pdb
+C:\Users\студент308\Downloads\CSharpEducation.Practice-main\CSharpEducation.Practice-main\Practice3.Task2\obj\Debug\net6.0\Practice3.Task2.genruntimeconfig.cache
+C:\Users\студент308\Downloads\CSharpEducation.Practice-main\CSharpEducation.Practice-main\Practice3.Task2\obj\Debug\net6.0\ref\Practice3.Task2.dll
