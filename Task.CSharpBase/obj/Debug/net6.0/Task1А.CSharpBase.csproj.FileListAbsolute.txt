@@ -13,3 +13,17 @@ C:\C#\repos\CSharpEducation.Practice\Task.CSharpBase\obj\Debug\net6.0\refint\Tas
 C:\C#\repos\CSharpEducation.Practice\Task.CSharpBase\obj\Debug\net6.0\Task1А.CSharpBase.pdb
 C:\C#\repos\CSharpEducation.Practice\Task.CSharpBase\obj\Debug\net6.0\Task1А.CSharpBase.genruntimeconfig.cache
 C:\C#\repos\CSharpEducation.Practice\Task.CSharpBase\obj\Debug\net6.0\ref\Task1А.CSharpBase.dll
+D:\GitHub\CSharpEducation.Practice\Task.CSharpBase\bin\Debug\net6.0\Task1А.CSharpBase.exe
+D:\GitHub\CSharpEducation.Practice\Task.CSharpBase\bin\Debug\net6.0\Task1А.CSharpBase.deps.json
+D:\GitHub\CSharpEducation.Practice\Task.CSharpBase\bin\Debug\net6.0\Task1А.CSharpBase.runtimeconfig.json
+D:\GitHub\CSharpEducation.Practice\Task.CSharpBase\bin\Debug\net6.0\Task1А.CSharpBase.dll
+D:\GitHub\CSharpEducation.Practice\Task.CSharpBase\bin\Debug\net6.0\Task1А.CSharpBase.pdb
+D:\GitHub\CSharpEducation.Practice\Task.CSharpBase\obj\Debug\net6.0\Task1А.CSharpBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharpEducation.Practice\Task.CSharpBase\obj\Debug\net6.0\Task1А.CSharpBase.AssemblyInfoInputs.cache
+D:\GitHub\CSharpEducation.Practice\Task.CSharpBase\obj\Debug\net6.0\Task1А.CSharpBase.AssemblyInfo.cs
+D:\GitHub\CSharpEducation.Practice\Task.CSharpBase\obj\Debug\net6.0\Task1А.CSharpBase.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharpEducation.Practice\Task.CSharpBase\obj\Debug\net6.0\Task1А.CSharpBase.dll
+D:\GitHub\CSharpEducation.Practice\Task.CSharpBase\obj\Debug\net6.0\refint\Task1А.CSharpBase.dll
+D:\GitHub\CSharpEducation.Practice\Task.CSharpBase\obj\Debug\net6.0\Task1А.CSharpBase.pdb
+D:\GitHub\CSharpEducation.Practice\Task.CSharpBase\obj\Debug\net6.0\Task1А.CSharpBase.genruntimeconfig.cache
+D:\GitHub\CSharpEducation.Practice\Task.CSharpBase\obj\Debug\net6.0\ref\Task1А.CSharpBase.dll
