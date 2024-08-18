@@ -1,0 +1,14 @@
+D:\GitHub\CSharpEducation.Practice\Practice.Task3\bin\Debug\net6.0\Practice.Task3.exe
+D:\GitHub\CSharpEducation.Practice\Practice.Task3\bin\Debug\net6.0\Practice.Task3.deps.json
+D:\GitHub\CSharpEducation.Practice\Practice.Task3\bin\Debug\net6.0\Practice.Task3.runtimeconfig.json
+D:\GitHub\CSharpEducation.Practice\Practice.Task3\bin\Debug\net6.0\Practice.Task3.dll
+D:\GitHub\CSharpEducation.Practice\Practice.Task3\bin\Debug\net6.0\Practice.Task3.pdb
+D:\GitHub\CSharpEducation.Practice\Practice.Task3\obj\Debug\net6.0\Practice.Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharpEducation.Practice\Practice.Task3\obj\Debug\net6.0\Practice.Task3.AssemblyInfoInputs.cache
+D:\GitHub\CSharpEducation.Practice\Practice.Task3\obj\Debug\net6.0\Practice.Task3.AssemblyInfo.cs
+D:\GitHub\CSharpEducation.Practice\Practice.Task3\obj\Debug\net6.0\Practice.Task3.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharpEducation.Practice\Practice.Task3\obj\Debug\net6.0\Practice.Task3.dll
+D:\GitHub\CSharpEducation.Practice\Practice.Task3\obj\Debug\net6.0\refint\Practice.Task3.dll
+D:\GitHub\CSharpEducation.Practice\Practice.Task3\obj\Debug\net6.0\Practice.Task3.pdb
+D:\GitHub\CSharpEducation.Practice\Practice.Task3\obj\Debug\net6.0\Practice.Task3.genruntimeconfig.cache
+D:\GitHub\CSharpEducation.Practice\Practice.Task3\obj\Debug\net6.0\ref\Practice.Task3.dll
