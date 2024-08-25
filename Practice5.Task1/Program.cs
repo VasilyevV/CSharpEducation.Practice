@@ -17,13 +17,13 @@
   class Manager : Employee
   {
     public int TeamSize { get; set; }
-    public Manager(string name, double salary, int teamsize) : base(name, salary) 
+    public Manager(string name, double salary, int teamsize) : base(name, salary)
     {
       this.TeamSize = teamsize;
     }
     public override double CalculateBonus()
     {
-      if (this.TeamSize > 5) 
+      if (this.TeamSize > 5)
         return Math.Round(0.2 * this.Salary + 0.05 * this.Salary, 2);
       else
         return Math.Round(0.2 * this.Salary, 2);
@@ -33,13 +33,13 @@
   {
     public double HourlyRate { get; set; }
     public Contractor(string name, double salary, int hourlyRate) : base(name, salary)
-        {
-            this.HourlyRate = hourlyRate;
-        }
-        public new double CalculateBonus(int hoursWorked)
-        {
-            return Math.Round(0.1 * this.Salary * hoursWorked / 8, 2);
-        }
+    {
+      this.HourlyRate = hourlyRate;
+    }
+    public new double CalculateBonus(int hoursWorked)
+    {
+      return Math.Round(0.1 * this.Salary * hoursWorked / 8, 2);
+    }
   }
   class Program
   {

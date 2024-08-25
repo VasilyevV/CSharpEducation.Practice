@@ -1,27 +1,34 @@
-﻿namespace Practice.Task2
+﻿using static System.Net.Mime.MediaTypeNames;
+
+namespace Practice.Task2
 {
-
-    interface ILogger
+  interface ILogger
+  {
+    void Trace(string message)
+    { }
+    void Info(string message)
+    { }
+    void Warning(string message)
+    { }
+    void Error(string message)
+    { }
+    void Fatal(string message)
+    { }
+    void Log(string message);
+  }
+  class FileLogger : ILogger
+  {
+    const string path = "logfile.txt";
+    public void Log(string message)
     {
-        void Trace(string message)
-        { }
-        void Info(string message)
-        { }
-        void Warning(string message)
-        { }
-        void Error(string message)
-        { }
-        void Fatal(string message)
-        { }
-        void Log(string message,  LogLevel)
-        { }
+      File.WriteAllText(path, message);
     }
-    class FileLogger : ILogger
+  }
+  class ConsoleLogger : ILogger
+  {
+    public void Log(string message)
     {
-
+      Console.WriteLine(message);
     }
-    class ConsoleLogger : ILogger
-    {
-
-    }
+  }
 }

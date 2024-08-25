@@ -1,73 +1,91 @@
 ﻿namespace Practice5.Task1
 {
-    class Animal
+  class Animal
+  {
+    public string Name { get; set; }
+    public int Age { get; set; }
+    public Animal(string name, int age)
     {
-        public string Name { get; set; }
-        public int Age { get; set; }
-        public Animal(string name, int age) 
-        {
-            this.Name = name;
-            this.Age = age;
-        } 
-        public void Eat()
-        {
-            Console.WriteLine("Animal is eating");
-        }
-        public void Sleep()
-        {
-            Console.WriteLine("Animal is sleeping");
-        }
-        public virtual void MakeSound()
-        {
-            Console.WriteLine("Some generic animal sound");
-        }
+      this.Name = name;
+      this.Age = age;
     }
-    class Cat : Animal 
+    public void Eat()
     {
-        public Cat(string name, int age) : base(name, age)
-        {
-            Console.WriteLine($"Создан кот {name}, возраст {age}");
-        }
-        public override void MakeSound()
-        {
-            Console.WriteLine("Meow!");
-        }
+      Console.WriteLine("Animal is eating");
     }
-    class Dog : Animal
+    public void Sleep()
     {
-        public Dog(string name, int age) : base(name, age)
-        {
-            Console.WriteLine($"Создан пес {name}, возраст {age}");
-        }
-        public override void MakeSound()
-        {
-            Console.WriteLine("Woof!");
-        }
+      Console.WriteLine("Animal is sleeping");
     }
-    class Parrot : Animal
+    public virtual void MakeSound()
     {
-        public string Color { get; set;}
-        public Parrot(string name, int age, string color) : base (name, age) 
-        {
-            this.Color = color;
-        }
-        public new void MakeSound(string words) 
-        {
-            Console.WriteLine(words);
-        }
+      Console.WriteLine("Some generic animal sound");
     }
-    class Program
+  }
+  class Cat : Animal
+  {
+    public Cat(string name, int age) : base(name, age)
     {
-        static void Main()
-        {
-            var cat = new Cat("cat", 5);
-            var dog = new Dog("dog", 9);
-            var parrot = new Parrot("parrot", 6, "multicolor");
+      Console.WriteLine($"Создан кот {name}, возраст {age}");
+    }
+    public override void MakeSound()
+    {
+      Console.WriteLine("Meow!");
+    }
+  }
+  class Dog : Animal
+  {
+    public Dog(string name, int age) : base(name, age)
+    {
+      Console.WriteLine($"Создан пес {name}, возраст {age}");
+    }
+    public override void MakeSound()
+    {
+      Console.WriteLine("Woof!");
+    }
+  }
+  class Parrot : Animal, IFlyable
+  {
+    public string Color { get; set; }
+    public Parrot(string name, int age, string color) : base(name, age)
+    {
+      this.Color = color;
+    }
+    public new void MakeSound(string words)
+    {
+      Console.WriteLine(words);
+    }
+    public void Fly()
+    {
+      Console.WriteLine("Parrot is flying");
+    }
+  }
+  interface IFlyable
+  {
+    void Fly();
+  }
+  class Eagle : IFlyable
+  {
+    public void Fly()
+    {
+      Console.WriteLine("Eagle is soaring high.");
+    }
+  }
+  class Program
+  {
+    static void Main()
+    {
+      var cat = new Cat("cat", 5);
+      var dog = new Dog("dog", 9);
+      var parrot = new Parrot("parrot", 6, "multicolor");
+      var eagle = new Eagle();
 
-            cat.MakeSound();
-            dog.MakeSound();
-            parrot.MakeSound($"{parrot.Name} is smart!");
-           
-        }
+      cat.MakeSound();
+      dog.MakeSound();
+      parrot.MakeSound($"{parrot.Name} is smart!");
+      eagle.Fly();
+
+      Console.ReadLine();
     }
+  }
 }
